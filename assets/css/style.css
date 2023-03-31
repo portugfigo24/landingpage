@@ -1,0 +1,46 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+        Geneva, Verdana, sans-serif;
+}
+
+.header {
+    height: 20em;
+    background-image: url("../imgs/Respaldo_Debeb_4.jpg");
+    background-size: cover;
+    background-position: top;
+    height: 1em;
+    padding: 6em;
+    font-size: 2em;
+}
+
+.header h1 {
+    margin: 0px;
+    font-weight: 350;
+    color:rgb(51, 50, 47);
+}
+
+.productos {
+    width: 80%;
+    margin: auto;
+}
+
+.productos td {
+    width: 50%;
+    padding: 2em;
+}
+
+.productos img {
+    width: 100%;
+    width: 75%;
+    border: solid 3px #ddd;
+}
+
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(185, 46, 41);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
