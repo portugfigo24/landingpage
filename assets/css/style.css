@@ -5,7 +5,7 @@ body {
 
 .header {
     height: 20em;
-    background-image: url("./assets/imgs/Respaldo_Debeb_4.jpg");
+    background-image: url(/assets/imgs/Respaldo_Debeb_4.jpg);
     background-size: cover;
     background-position: top;
     height: 1em;
